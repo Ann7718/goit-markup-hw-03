@@ -275,7 +275,8 @@ button:focus {
     margin-left: 156px;
     margin-right: 156px;
     margin: 0 auto;
-    padding: 0 15px 0 15px;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
 .nav-list {
@@ -295,8 +296,8 @@ button:focus {
 .nav-list-header {
     display: flex;
     justify-content: space-between;
-    padding-top: 6px;
-    padding-bottom: 6px;
+    /* padding-top: 6px;
+    padding-bottom: 6px; */
 }
 
 .advantages-text-li {
