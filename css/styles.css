@@ -180,6 +180,7 @@ button:focus {
     text-transform: capitalize;
     color: #2e2f42;
     margin-bottom: 72px; 
+    margin-bottom: 8px;
 }
 
 .name-and-post {
@@ -275,25 +276,27 @@ button:focus {
     margin-right: 156px;
     margin: 0 auto;
     padding: 0 15px;
-    }
+}
 
 .nav-list {
     display: flex;
     gap: 40px;
     align-items: center;
     padding: 24px 0;
+    padding: 0 15px;
 }
 
 .nav-list-con {
     display: flex;
     gap: 40px;
+    padding: 24px 0;
 }
 
 .nav-list-header {
     display: flex;
     justify-content: space-between;
-    padding-top: 24px;
-    padding-bottom: 24px;
+    padding-top: 6px;
+    padding-bottom: 6px;
 }
 
 .advantages-text-li {
