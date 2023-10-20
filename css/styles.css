@@ -181,7 +181,6 @@ button:focus {
     text-transform: capitalize;
     color: #2e2f42;
     margin-bottom: 72px;
-    margin-bottom: 8px;
 }
 
 .name-and-post {
@@ -278,7 +277,7 @@ button:focus {
     margin-left: 156px;
     margin-right: 156px;
     margin: 0 auto;
-    padding: 0 15px
+    padding: 0 15px;
 }
 
 .nav-list {
